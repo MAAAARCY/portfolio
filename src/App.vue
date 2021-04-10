@@ -19,11 +19,6 @@ export default {
     About,
     Skill,
     Portfolio
-  },
-  methods: {
-    clear() {
-      this.msg = ''
-    }
   }
 }
 </script>
