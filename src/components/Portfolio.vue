@@ -9,6 +9,13 @@
         <p cladd = "portfolio-technology">Unity, C#</p>
         <p class = "portfolio-description">link: <a href="https://maaaarcy.github.io/Typing-Adventurer/">TypingAdventurer</a></p>
       </li>
+      <li class = "portfolio-card">
+        <img src ="../assets/Liverary.png" alt="" class="profile-img">
+        <p class = "portfolio-title">Liverary</p>
+        <p class = "portfolio-description">Open Hack U 2020 Online Vol.5出場作品</p>
+        <p cladd = "portfolio-technology">HTML,CSS,Javascript,python</p>
+        <p class = "portfolio-description">link: <a href="https://www.slideshare.net/ShomaKobayashi/liverary">Liverary</a></p>
+      </li>
     </ul>
   </dev>
 </template>
@@ -24,7 +31,6 @@
 }
 .portfolio-card {
   display: inline-block;
-  margin-top: 30px;
   margin-right: 20px;
   width: 350px;
   background: #fff;

@@ -1,6 +1,6 @@
 <template>
   <dev>
-    <h1 id = "profile"> About me </h1>
+    <h1 id = "profile-title"> About me </h1>
     <dev class = "profile-config">
       <img src="../assets/slime.png" alt="logo" class="profile-image">
       <dev class = "profile-data">      
@@ -29,8 +29,10 @@
   font-size: 150%;
   padding-bottom: 10%;
 }
-#profile {
+#profile-title {
   text-align: center;
 }
-
+#profile {
+  background-color: #000000;
+}
 </style>
