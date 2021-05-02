@@ -13,7 +13,7 @@
         <img src ="../assets/Liverary.png" alt="" class="profile-img">
         <p class = "portfolio-title">Liverary</p>
         <p class = "portfolio-description">Open Hack U 2020 Online Vol.5出場作品</p>
-        <p cladd = "portfolio-technology">HTML,CSS,Vue.js,python</p>
+        <p cladd = "portfolio-technology">Vue.js,Flask,Raspberrypi</p>
         <p class = "portfolio-description">link: <a href="https://www.slideshare.net/ShomaKobayashi/liverary">Liverary</a></p>
       </li>
     </ul>
