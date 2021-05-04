@@ -32,6 +32,7 @@
 .portfolio-card {
   display: inline-block;
   margin-right: 20px;
+  margin-bottom: 20px;
   width: 350px;
   background: #fff;
   box-shadow: 0 20px 30px #ccc;
