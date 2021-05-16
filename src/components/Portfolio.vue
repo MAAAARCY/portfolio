@@ -31,7 +31,7 @@
 }
 .portfolio-card {
   display: inline-block;
-  margin-right: 20px;
+  margin-right: 5px;
   margin-bottom: 20px;
   width: 350px;
   background: #fff;
