@@ -35,7 +35,6 @@
   margin-bottom: 20px;
   width: 350px;
   background: #fff;
-  box-shadow: 0 20px 30px #ccc;
 }
 .profile-img {
   width: 100%;

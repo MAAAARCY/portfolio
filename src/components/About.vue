@@ -3,9 +3,8 @@
     <h1 id = "profile-title"> About me </h1>
     <dev class = "profile-config">
       <img src="../assets/slime.png" alt="logo" class="profile-image">
-      <dev class = "profile-data">      
-        <div class = "profile-link"><font-awesome-icon :icon="['fab','twitter']" />: <a href="https://twitter.com/_marcy___">@twitter</a></div>
-        <div class = "profile-link"><font-awesome-icon icon="envelope" />: <a href="changjungu65@gmaill.com">@gmail</a></div>
+      <dev class = "profile-data">
+        <div class = "profile-link"><font-awesome-icon :icon="['fab','twitter']" />: <a href="https://twitter.com/_marcy___">@mashima1532</a></div>
         <div class = "profile-link"><font-awesome-icon :icon="['fab','github']" />: <a href="https://github.com/MAAAARCY">@github</a></div>
       </dev>
     </dev>
@@ -14,8 +13,8 @@
 
 <style>
 .profile-image {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   padding-right: 5%;
 } 
 .profile-config {
@@ -26,8 +25,9 @@
   flex-flow: column;
 }
 .profile-link {
-  font-size: 150%;
-  padding-bottom: 10%;
+  font-size: 200%;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 #profile-title {
   text-align: center;
