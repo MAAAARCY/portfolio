@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-      <Header></Header>
-      <About></About>
-      <Portfolio></Portfolio>
+    <Header></Header>
+    <About></About>
+    <Portfolio></Portfolio>
   </div>
 </template>
 
@@ -12,6 +12,7 @@ import About from './components/About.vue'
 import Portfolio from './components/Portfolio.vue'
 
 export default {
+  name: 'App',
   components: {
     Header,
     About,

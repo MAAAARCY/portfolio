@@ -20,6 +20,12 @@
   </dev>
 </template>
 
+<script>
+export default {
+  name: 'Skill'
+}
+</script>
+
 <style>
 #skill {
   text-align: center;

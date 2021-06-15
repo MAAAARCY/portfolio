@@ -11,6 +11,12 @@
   </dev>
 </template>
 
+<script>
+export default {
+  name: 'About'
+}
+</script>
+
 <style>
 .profile-image {
   width: 150px;
