@@ -17,7 +17,7 @@
         <p class = "portfolio-description">link: <a href="https://www.slideshare.net/ShomaKobayashi/liverary">Liverary</a></p>
       </li>
       <li class = "portfolio-card">
-        <img src ="../assets/Liverary.png" alt="" class="profile-img">
+        <img src ="../assets/NoImage.png" alt="" class="profile-img">
         <p class = "portfolio-title">Commig Soon</p>
         <p class = "portfolio-description">高専プロコン</p>
         <p cladd = "portfolio-technology">使用技術:Comming Soon</p>
