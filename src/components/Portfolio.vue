@@ -39,7 +39,6 @@ export default {
   margin-top: 80px;
 }
 .portfolio-list {
-  /*list-style-type: none;*/
   text-align: center;
   overflow-x: auto;
   white-space: nowrap;
@@ -47,17 +46,10 @@ export default {
 }
 .portfolio-card {
   display: inline-block;
-  width: 30%;
-  height: 50%;
-  margin: 16px;
-  background: #fff;
-  /*
-  margin-left: -15px;
   margin-right: 30px;
   margin-bottom: 20px;
   width: 350px;
   background: #fff;
-  */
 }
 .profile-img {
   width: 100%;
