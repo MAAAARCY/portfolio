@@ -4,7 +4,7 @@
     <dev class = "profile-config">
       <img src="../assets/slime.png" alt="logo" class="profile-image">
       <dev class = "profile-data">
-        <div class = "profile-link"><font-awesome-icon :icon="['fab','twitter']" />: <a href="https://twitter.com/mashima1532">@twitter</a></div>
+        <div class = "profile-link"><font-awesome-icon :icon="['fab','twitter']" />: <a href="https://twitter.com/_marcy___">@twitter</a></div>
         <div class = "profile-link"><font-awesome-icon :icon="['fab','github']" />: <a href="https://github.com/MAAAARCY">@github</a></div>
       </dev>
     </dev>
