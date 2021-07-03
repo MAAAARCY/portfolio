@@ -16,13 +16,6 @@
         <p cladd = "portfolio-technology">使用技術:Vue.js,Flask,Raspberrypi</p>
         <p class = "portfolio-description">link: <a href="https://www.slideshare.net/ShomaKobayashi/liverary">Liverary</a></p>
       </li>
-      <li class = "portfolio-card">
-        <img src ="../assets/NoImage.png" alt="" class="profile-img">
-        <p class = "portfolio-title">Commig Soon</p>
-        <p class = "portfolio-description">高専プロコン</p>
-        <p cladd = "portfolio-technology">使用技術:Comming Soon</p>
-        <p class = "portfolio-description">link: Commig Soon</p>
-      </li>
     </ul>
   </dev>
 </template>

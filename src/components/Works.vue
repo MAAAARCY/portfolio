@@ -5,7 +5,6 @@
       <ul>
         <li id="works-content"> 高専ロボコン2019出場 </li>
         <li id="works-content"> Open Hack U 2020 Online Vol.5出場 </li>
-        <!--<li id="works-content"> 高専プロコン2021出場？ </li>-->
       </ul>
     </dev>
   </dev>
