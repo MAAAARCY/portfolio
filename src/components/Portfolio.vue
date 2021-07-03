@@ -39,6 +39,7 @@ export default {
 }
 .portfolio-card {
   display: inline-block;
+  margin-left: -15px;
   margin-right: 30px;
   margin-bottom: 20px;
   width: 350px;
