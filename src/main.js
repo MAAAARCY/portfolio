@@ -7,9 +7,12 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
+import smoothScroll from 'vue-smoothscroll'
+
 library.add(faTwitter, faGithub, faEnvelope)
 
 Vue.component('font-awesome-icon', FontAwesomeIcon)
+Vue.use(smoothScroll)
 
 Vue.config.productionTip = false
 
